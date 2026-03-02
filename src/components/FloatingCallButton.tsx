@@ -57,13 +57,13 @@ export function FloatingCallButton() {
                                 اضغط على الرقم أدناه للاتصال مباشرة
                             </p>
                             <a
-                                href="tel:01036591401"
+                                href="tel:01123295580"
                                 onClick={handleReset}
                                 className="inline-flex items-center justify-center gap-2 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2 rounded-md font-bold transition-colors w-full"
                                 dir="ltr"
                             >
                                 <Phone className="w-4 h-4" />
-                                01036591401
+                                01123295580
                             </a>
                         </div>
                     </div>

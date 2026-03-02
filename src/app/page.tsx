@@ -30,7 +30,7 @@ export default function Home() {
 
       {/* Floating Call Button */}
       <a
-        href="tel:+201036591401"
+        href="tel:+201123295580"
         className="fixed bottom-6 left-6 z-50 flex items-center justify-center w-14 h-14 bg-primary hover:bg-[#e85a3c] text-white rounded-full shadow-lg shadow-primary/30 transition-all hover:scale-110 animate-bounce"
         aria-label="اتصل بنا الآن"
       >

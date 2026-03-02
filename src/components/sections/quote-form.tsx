@@ -30,7 +30,7 @@ const QuoteFormSection = () => {
               </div>
             </div>
 
-            <a href="tel:+201036591401" className="inline-flex items-center">
+            <a href="tel:+201123295580" className="inline-flex items-center">
               <span className="bg-primary text-white py-4 px-8 text-[14px] font-bold rounded-s-lg">اتصل بنا الآن</span>
               <span className="bg-[#e85a3c] text-white p-4 rounded-e-lg flex items-center">
                 <ArrowUpLeft className="w-5 h-5" />

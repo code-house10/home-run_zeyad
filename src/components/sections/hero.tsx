@@ -29,7 +29,7 @@ const Hero = () => {
           </p>
 
           <div className="flex flex-wrap items-center gap-4">
-            <a href="tel:+201036591401" className="inline-flex items-center">
+            <a href="tel:+201123295580" className="inline-flex items-center">
               <span className="bg-primary text-white text-[14px] font-bold px-8 py-4 rounded-s-lg">
                 اتصل الآن
               </span>

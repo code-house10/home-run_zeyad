@@ -14,7 +14,7 @@ const Header = () => {
           <div className="flex items-center gap-6">
             <span className="flex items-center gap-2">
               <Phone className="w-4 h-4" />
-              <a href="tel:+201036591401" className="hover:text-primary transition-colors">01036591401</a>
+              <a href="tel:+201123295580" className="hover:text-primary transition-colors">01123295580</a>
             </span>
             <span className="hidden sm:flex items-center gap-2">
               <MapPin className="w-4 h-4" />
@@ -61,7 +61,7 @@ const Header = () => {
           {/* CTA + Mobile */}
           <div className="flex items-center gap-3">
             <a
-              href="tel:+201036591401"
+              href="tel:+201123295580"
               className="hidden sm:inline-flex items-center"
             >
               <span className="bg-primary text-white text-[13px] font-bold px-6 py-3 rounded-s-lg">
